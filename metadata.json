@@ -1,0 +1,5 @@
+{
+  "name": "Dogão do Pastor - Delivery",
+  "description": "Aplicativo de entrega em tempo real para o Dogão do Pastor. Gerencie rotas, visualize mapas e fale com o suporte.",
+  "requestFramePermissions": ["geolocation"]
+}
